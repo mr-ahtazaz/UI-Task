@@ -9,7 +9,7 @@
 import Foundation
 
 
-// MARK: - Welcome
+// MARK: - TaskModel
 struct TaskModel: Decodable {
     let abilities: [Ability]
     let baseExperience: Int
